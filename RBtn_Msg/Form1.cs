@@ -16,5 +16,15 @@ namespace RBtn_Msg
         {
             InitializeComponent();
         }
+
+        private void RadioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void RadioButton5_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
